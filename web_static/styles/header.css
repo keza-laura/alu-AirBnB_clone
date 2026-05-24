@@ -1,8 +1,18 @@
 header {
-    background-color: red; 
-    color: white; 
-    text-align: center; 
+    background-color: white; 
+    border-bottom: 1px solid #CCCCCC; 
+    border-width: 100%;
     padding: 10px; 
     height: 70px; 
     width: 100%; 
+    
+    
+    
+}
+
+.logo {
+    background-image: url("../images/logo.png");
+    width: 140px;
+    height: 60px;
+    
 }
